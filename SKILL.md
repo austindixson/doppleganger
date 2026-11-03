@@ -80,5 +80,5 @@ The delegate rule runs a duplicate check before every `sessions_spawn`; that che
 
 ## Links
 
-- **GitHub:** https://github.com/RuneweaverStudios/doppleganger
+- **GitHub:** https://github.com/austindixson/doppleganger
 - **Related:** [subagent-tracker](https://github.com/RuneweaverStudios/subagent-tracker) - Underlying session tracking
