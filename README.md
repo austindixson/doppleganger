@@ -6,7 +6,7 @@
 
 ```bash
 # Install
-git clone https://github.com/RuneweaverStudios/doppleganger.git
+git clone https://github.com/austindixson/doppleganger.git
 cp -r doppleganger ~/.openclaw/workspace/skills/
 
 # Check if a task is already running

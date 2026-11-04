@@ -4,7 +4,7 @@
   "version": "1.1.0",
   "displayName": "Doppleganger",
   "description": "Prevents duplicate subagent sessions running the same task. One-shot check and continuous guard mode with configurable polling. Saves tokens and reduces lag.",
-  "author": "RuneweaverStudios",
+  "author": "austindixson",
   "main": "scripts/doppleganger.py",
   "tags": [
     "duplicate-detection",
